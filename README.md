@@ -1,1 +1,1 @@
-# Shopify-Songs-EDA-Python-Project
+# Spoify-Songs-EDA-Python-Project
